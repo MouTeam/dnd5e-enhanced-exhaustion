@@ -1,0 +1,9 @@
+{
+  "DND5E.exhaustionLevel.0": "0 - Normal",
+  "DND5E.exhaustionLevel.1": "1 - Déavantage aux jets de compétences",
+  "DND5E.exhaustionLevel.2": "2 - Vitesse réduite de moitié",
+  "DND5E.exhaustionLevel.3": "3 - Déavantage aux jets d'attaque et sauvegarde",
+  "DND5E.exhaustionLevel.4": "4 - Maximum de points de vie réduit de moitié",
+  "DND5E.exhaustionLevel.5": "5 - Vitesse réduite à 0",
+  "DND5E.exhaustionLevel.6": "6 - Mort"
+}

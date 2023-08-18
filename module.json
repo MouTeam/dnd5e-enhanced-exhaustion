@@ -1,0 +1,51 @@
+{
+  "id": "dnd5e-enhanced-exhaustion",
+  "title": "DnD5e Enhanced Exhaustion",
+  "description": "A small module for FoundryVTT that replaces default exhaustion counter with a selector.",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11.307",
+    "maximum": "11"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "manifest": "https://raw.githubusercontent.com/foundryvtt/dnd5e/2.3.x/system.json",
+        "compatibility": {
+          "minimum": "2.0.0",
+          "verified": "2.3.0"
+        }
+      }
+    ],
+    "requires": []
+  },
+  "authors": [
+    {
+      "name": "AlexandrePavy",
+      "url": "https://github.com/AlexandrePavy"
+    }
+  ],
+  "esmodules": [
+    "enhanced-exhaustion.mjs"
+  ],
+  "styles": [],
+  "packs": [],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    },
+    {
+      "lang": "fr",
+      "name": "French",
+      "path": "lang/fr.json"
+    }
+  ],
+  "url": "https://github.com/MouTeam/dnd5e-enhanced-exhaustion",
+  "manifest": "https://raw.githubusercontent.com/MouTeam/dnd5e-enhanced-exhaustion/v0.1.0/module.json",
+  "download": "https://github.com/MouTeam/dnd5e-enhanced-exhaustion/archive/refs/tags/v0.1.0.zip"
+}

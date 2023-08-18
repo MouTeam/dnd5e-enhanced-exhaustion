@@ -1,0 +1,8 @@
+<div class="counter flexrow exhaustion">
+    <h4>{{ localize "DND5E.Exhaustion" }}</h4>
+    <div class="counter-value">
+        <select name="system.attributes.exhaustion" data-dtype="Number">
+            {{ selectOptions exhaustionLevels selected=system.attributes.exhaustion localize=true}}
+        </select>
+    </div>
+</div>

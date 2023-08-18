@@ -1,0 +1,9 @@
+{
+  "DND5E.exhaustionLevel.0": "0 - Normal",
+  "DND5E.exhaustionLevel.1": "1 - Disadvantage on Ability Checks",
+  "DND5E.exhaustionLevel.2": "2 - Speed halved",
+  "DND5E.exhaustionLevel.3": "3 - Disadvantage on attack rolls and saving throws",
+  "DND5E.exhaustionLevel.4": "4 - Hit point maximum halved",
+  "DND5E.exhaustionLevel.5": "5 - Speed reduced to 0",
+  "DND5E.exhaustionLevel.6": "6 - Death"
+}
